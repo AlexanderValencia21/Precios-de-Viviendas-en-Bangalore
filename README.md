@@ -1,6 +1,6 @@
 # 🏠 Predicción de Precios de Viviendas en Bangalore
 
-Este proyecto tiene como objetivo predecir el precio de propiedades residenciales en Bangalore (India) a partir de sus características, utilizando Machine Learning y visualizando los resultados con Power BI.
+Este proyecto tiene como objetivo predecir el precio de propiedades residenciales en Bangalore (India) a partir de sus características, utilizando Machine Learning y visualizando los resultados con matplotlib y seaborn.
 
 ---
 
